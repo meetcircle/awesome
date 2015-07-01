@@ -30,6 +30,7 @@
 - [AmpersandJS](http://ampersandjs.com/): Backbone 2.0 for the modern web
 - [ampersand-react](https://github.com/meetcircle/ampersand-react): a Webpack, AmpersandJS, and React scaffold with Babel
 - [Reactiflux](http://www.reactiflux.com/): a Slack channel for React/Flux nerds
+- [Fluxible](http://fluxible.io/): Build isomorphic Flux applications
 - [BabelJS](http://babeljs.io/): user modern ES6 today
 - [SassChat](http://sass-chat.herokuapp.com/): a Slack channel for Sass developers
 
@@ -37,7 +38,6 @@
 ## Design
 - [Relay](https://relay.io/): design inspiration for teams with Slack
 - [InVision](http://www.invisionapp.com/): design review and app show & tell
-
 
 
 ## Interaction Design
@@ -82,4 +82,3 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Circle](http://meetcircle.co) has waived all copyright and related or neighboring rights to this work.
-ree
