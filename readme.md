@@ -16,13 +16,17 @@
 - [Design](#design)
 - [Interaction Design](#interaction-design)
 - [Mobile](#mobile)
+- [Useful Apps](#useful-apps)
 - [Dev Blogs](#dev-blogs)
+- [Design Blogs](#design-blogs)
+- [Fun](#fun)
 
 
 ## Services
 - [URX](http://urx.com/): deep linking for apps
 - [Auth0](https://auth0.com/): simple identity for developers
 - [Clearbit](https://clearbit.com/): scrape business and user identity from emails
+- [Import.io](https://www.import.io/): turn websites into structured data
 
 
 ## Front-End
@@ -32,7 +36,8 @@
 - [ampersand-react](https://github.com/meetcircle/ampersand-react): a Webpack, AmpersandJS, and React scaffold with Babel
 - [Reactiflux](http://www.reactiflux.com/): a Slack channel for React/Flux nerds
 - [Fluxible](http://fluxible.io/): Build isomorphic Flux applications
-- [BabelJS](http://babeljs.io/): user modern ES6 today
+- [Aqua](https://github.com/jedireza/aqua/): a Hapi/React/Flux starter template
+- [BabelJS](http://babeljs.io/): use modern ES6 with today's web
 - [SassChat](http://sass-chat.herokuapp.com/): a Slack channel for Sass developers
 
 
@@ -45,13 +50,24 @@
 - [FramerJS](http://framerjs.com/)
 - [Origami](http://facebook.github.io/origami/)
 - [Atomic](https://atomic.io/): design interactions in the browser
+- [Avocado](https://github.com/ideo/avocado/): an interaction design toolbox for Quartz Composer
 
 
 ## Mobile
 - [Facebook Pop](https://github.com/facebook/pop): an extensible animation engine for iOS and OS X
 - [Facebook Infer](http://fbinfer.com/): bug detection for iOS and Android 
 - [Google 2014 I/O Source Code](https://medium.com/google-design/material-design-in-the-2014-google-i-o-app-e3b22caffae6): a starter-kit for Android
-- [React Native](https://facebook.github.io/react-native/): build native apps with React 
+- [React Native](https://facebook.github.io/react-native/): build native apps with React
+- [Flipboard FLEX](https://github.com/Flipboard/FLEX): debug and explore state in iOS application views
+- [PonyDebugger by Square](https://github.com/square/PonyDebugger): remote network and data debugging for your native iOS app using Chrome Developer Tools
+- [Swift Education](http://swifteducation.github.io/): Swift-learning tools from Apple
+- [Motion Example with Pop](https://designthencode.com/motion-sample-5.html): learn how to do animation with Facebook Pop
+
+
+## Apps
+- [PAW](https://luckymarmot.com/paw): REST API debug and prototyping for OS X
+- [Monodraw](http://monodraw.helftone.com): ASCII drawing and diagramming for OS X
+
 
 ## Dev Blogs
 - [&yet](http://blog.andyet.com)
@@ -81,9 +97,52 @@
 - [Travis CI Blog](http://blog.travis-ci.com/)
 - [Codeship Blog](http://blog.codeship.com)
 - [Zach Hubert](http://www.zhubert.com/)
+- [Alex MacCaw](http://blog.alexmaccaw.com/)
+- [Anthony Short](http://anthonyshort.me/)
+- [Sam Soffes](http://blog.soff.es/)
+- [Steven Grant](http://digitalevangelist.net/)
+
+
+## Design Blogs
+
+- [Atomic Blog](http://blog.atomic.io)
+- [Chris Bowler](http://chrisbowler.com/journal)
+- [Boagworld](https://boagworld.com)
+- [Dan Eden](http://daneden.me)
+- [Medium: Design Insights from Bridge](https://medium.com/bridge-collection)
+- [Jonnie Hallman](http://destroytoday.com)
+- [Framer Blog](http://blog.framerjs.com/)
+- [Medium: Google Design](https://medium.com/google-design)
+- [Helftone Blog](http://blog.helftone.com)
+- [Medium: Intercom](https://medium.com/@intercom)
+- [Jason Zimdars](http://stream.jasonzimdars.com/)
+- [Jeff Broderick](http://brdrck.me/)
+- [Jonathan Ogden](http://ogvidius.tumblr.com/)
+- [Josiah Wiebe](http://jwie.be/)
+- [Matthew Bischoff](http://matthewbischoff.com/)
+- [Oak Studios](http://oak.is)
+- [John Choura](http://objectsubject.com)
+- [Phil Coffman](http://philcoffman.com/)
+- [Michael Flarup](http://www.pixelresort.com/)
+- [Ragged Write](http://raggedwrite.net)
+- [Sean Wes](http://seanwes.com)
+- [Slack HQ](http://slackhq.com/)
+- [Shawn Blanc](http://shawnblanc.net)
+- [Dan Cederholm](http://simplebits.com/)
+- [Medium: Sketch Tricks](https://medium.com/sketch-tricks)
+- [The Industry](http://theindustry.cc)
+- [The Sass Way](http://thesassway.com)
+- [Welch Canavan](http://welchcanavan.com/)
+
+
+## Fun
+
+- [Elevator.js](http://tholman.com/elevator.js/): elevator music for your scroll-to-top
+- [Raptorize](http://zurb.com/playground/jquery-raptorize?timed_launch=true): what the world needs is more sneaky raptors
 
 
 * * *
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
