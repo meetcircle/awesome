@@ -145,6 +145,7 @@
 - [Julie Zhou](https://medium.com/the-year-of-the-looking-glass)
 - [Reindex.io](https://www.reindex.io/blog/)
 - [Thomas Byttebier](http://thomasbyttebier.be/blog)
+- [Sidebar.io](http://sidebar.io/)
 
 
 ## Fun
