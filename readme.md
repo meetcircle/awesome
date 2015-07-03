@@ -43,6 +43,7 @@
 - [ReactConf 2015 Deck](https://speakerd.s3.amazonaws.com/presentations/7af7c2f33bf9451a892dcd91de55b7c2/data-fetching-for-react-applications.pdf)
 - [Clearbit Logo API](http://blog.clearbit.com/logo)
 - [Gradify CSS](http://gradifycss.com/): create CSS gradients from images
+- [Dynamics.js](http://dynamicsjs.com/): create physics-based animations in CSS
 
 
 ## Back-End
