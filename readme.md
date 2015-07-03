@@ -44,6 +44,7 @@
 
 ## Back-End
 - [Facebook Relay & GraphQL](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
+- [GraphQL will change back-end development](https://www.reindex.io/blog/how-facebooks-graphql-will-change-backend-development/)
 
 
 ## Design
