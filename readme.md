@@ -134,6 +134,7 @@
 - [The Sass Way](http://thesassway.com)
 - [Welch Canavan](http://welchcanavan.com/)
 - [Julie Zhou](https://medium.com/the-year-of-the-looking-glass)
+- [Reindex.io](https://www.reindex.io/blog/)
 
 
 ## Fun
