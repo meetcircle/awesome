@@ -41,6 +41,7 @@
 - [BabelJS](http://babeljs.io/): use modern ES6 with today's web
 - [SassChat](http://sass-chat.herokuapp.com/): a Slack channel for Sass developers
 - [ReactConf 2015 Deck](https://speakerd.s3.amazonaws.com/presentations/7af7c2f33bf9451a892dcd91de55b7c2/data-fetching-for-react-applications.pdf)
+- [Clearbit Logo API](http://blog.clearbit.com/logo)
 
 
 ## Back-End
