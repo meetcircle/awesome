@@ -12,6 +12,7 @@
 ## TOC
 
 - [Services](#services)
+- [Tools](#tools)
 - [Front-End](#front-end)
 - [Back-End](#back-end)
 - [Design](#design)
@@ -28,6 +29,10 @@
 - [Auth0](https://auth0.com/): simple identity for developers
 - [Clearbit](https://clearbit.com/): scrape business and user identity from emails
 - [Import.io](https://www.import.io/): turn websites into structured data
+
+
+## Tools
+- [MacGap](http://macgapproject.github.io/): build native OS X apps with web technologies 
 
 
 ## Front-End
