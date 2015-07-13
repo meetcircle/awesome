@@ -29,6 +29,7 @@
 - [Auth0](https://auth0.com/): simple identity for developers
 - [Clearbit](https://clearbit.com/): scrape business and user identity from emails
 - [Import.io](https://www.import.io/): turn websites into structured data
+- [imgIX](https://www.imgix.com/): hosted image resizing service
 
 
 ## Tools
