@@ -50,6 +50,7 @@
 - [Clearbit Logo API](http://blog.clearbit.com/logo)
 - [Gradify CSS](http://gradifycss.com/): create CSS gradients from images
 - [Dynamics.js](http://dynamicsjs.com/): create physics-based animations in CSS
+- [Dragula](http://bevacqua.github.io/dragula/): dead simple drag-and-drop.
 
 
 ## Back-End
