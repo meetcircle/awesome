@@ -51,6 +51,7 @@
 - [Gradify CSS](http://gradifycss.com/): create CSS gradients from images
 - [Dynamics.js](http://dynamicsjs.com/): create physics-based animations in CSS
 - [Dragula](http://bevacqua.github.io/dragula/): dead simple drag-and-drop.
+- [Enquire.js](http://wicky.nillia.ms/enquire.js/): simple media queries in JS.
 
 
 ## Back-End
@@ -70,6 +71,7 @@
 - [Origami](http://facebook.github.io/origami/)
 - [Atomic](https://atomic.io/): design interactions in the browser
 - [Avocado](https://github.com/ideo/avocado/): an interaction design toolbox for Quartz Composer
+- [Flinto for Mac](https://www.flinto.com/mac): simple design-based prototyping for Mac.
 
 
 ## Mobile
